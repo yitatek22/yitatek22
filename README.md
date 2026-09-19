@@ -27,6 +27,6 @@ Main  Full-Stack Web Developer Cybersecurity enthusiast hoon. Main secure aur us
 
 ### 📫 Connect With Me
 
-* **Email:** your-email@gmail.com
+* **Email:**yitatekabera13@gmail@gmail.com
 * **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 * **GitHub:** [@yitatek22](https://github.com/yitatek22)
